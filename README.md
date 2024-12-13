@@ -83,6 +83,8 @@ Enhance the model by including additional features such as trading volume, macro
 Implement other advanced models like Transformer-based architectures for comparison.
 
 
-![Screenshot (188)](https://github.com/user-attachments/assets/177662b5-ca2e-41ff-8ece-c4ee44b83929)
-![Screenshot (187)](https://github.com/user-attachments/assets/cea4b547-7e35-4243-8eed-8fd00fb6d0b6)
+
 ![Screenshot (186)](https://github.com/user-attachments/assets/4b5d9f58-cd0a-4c08-bbe8-cc685d30de2c)
+![Screenshot (187)](https://github.com/user-attachments/assets/cea4b547-7e35-4243-8eed-8fd00fb6d0b6)
+![Screenshot (188)](https://github.com/user-attachments/assets/177662b5-ca2e-41ff-8ece-c4ee44b83929)
+
